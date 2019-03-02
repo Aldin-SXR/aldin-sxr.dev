@@ -1,0 +1,74 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 70px;
+}
+
+.subtitle {
+    font-size: 21px;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    margin: 15px 0;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.account {
+    font-size: 50px !important;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.no-decoration {
+   text-decoration: none !important; 
+}
+
+.f-r {
+    float: right;
+}
+
+strong { font-weight: bold; }
+
+.nav-area {
+    margin-bottom: 10%
+}
