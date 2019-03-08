@@ -1,0 +1,11 @@
+{
+    "require": {
+        "tribeos/http-logger": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Aldin-SXR/http-logger.git"
+        }
+    ]
+}
