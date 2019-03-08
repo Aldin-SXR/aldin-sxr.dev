@@ -101,5 +101,12 @@
         </div>
     </div>
 </body>
-
 </html>
+
+<?php
+require_once __DIR__."/vendor/autoload.php";
+use HttpLog\HttpLogger;
+
+$logger = HttpLogger::create("file", "full+h", "logs/debug.log");
+$logger->log();
+?>
