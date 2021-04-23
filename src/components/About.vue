@@ -14,7 +14,7 @@
                     <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                        <img src="@/assets/img/pic.png" alt="My likeness">
+                            <img class="is-rounded" src="@/assets/img/pic-anim.png" alt="My anime likeness">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -28,7 +28,7 @@
                             I consider myself hard-working, meticulous, highly motivated and willing to learn and adapt to new technologies.
                         </p>
                         <p>
-
+                            At the moment, I work as a backend developer at <a href="">DIGTL</a> and a student assistant at <a href="https://www.ibu.edu.ba/">International Burch University</a>.
                         </p>
                     <a href="#">#learn</a> <a href="#">#more</a>
                     </div>

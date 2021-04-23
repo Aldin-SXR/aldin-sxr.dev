@@ -2,8 +2,8 @@
 <section class="hero is-light">
     <div class="hero-body">
         <div class="columns is-centered">
-            <div class="column is-narrow">
-                <figure class="image is-128x128">
+            <div class="column is-narrow has-text-centered">
+                <figure class="image is-128x128 is-inline-block">
                     <img class="zoom is-rounded" src="@/assets/img/pic.png">
                 </figure>
             </div>
