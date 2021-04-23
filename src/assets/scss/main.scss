@@ -1,0 +1,23 @@
+@import '~bulma';
+@import '~bulma-timeline';
+
+@import 'links';
+
+@font-face {
+    font-family: 'Fira Code';
+    src: url('../fonts/FiraCode-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Fira Code';
+}
+
+.zoom {
+    transition: ease-in 0.2s;
+}
+
+.zoom:hover {
+    transform: scale(1.1);
+}

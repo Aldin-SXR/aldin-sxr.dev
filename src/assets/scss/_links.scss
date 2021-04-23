@@ -1,0 +1,70 @@
+
+@mixin link-underline($color) {
+    
+    $red: $color;
+    // $red: #F37272;
+    
+    $duration: .2s;
+    $distance: 8px;
+    $easeOutBack: cubic-bezier(0.175, 0.885, 0.320, 1.275);
+
+    &:before,
+    &:after {
+        content: "";
+        position: absolute;
+        bottom: 0px;
+        left: 0;
+        right: 0;
+        height: 2px;
+        background-color: $red;
+    }
+    &:before {
+        opacity: 0;
+        transform: translateY(-$distance);
+        transition: transform 0s $easeOutBack, opacity 0s;
+    }
+    &:after {
+        opacity: 0;
+        transform: translateY($distance/2);
+        transition: transform $duration $easeOutBack, opacity $duration;
+    }
+    &:hover,
+    &:focus {
+        &:before,
+        &:after {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        &:before {
+            transition: transform $duration $easeOutBack, opacity $duration;
+        }
+        &:after {
+            transition: transform 0s $duration $easeOutBack, opacity 0s $duration;
+        }
+    }
+}
+
+.link {
+    transition: ease-in 0.2s;
+    color: #4a4a4a;
+}
+
+.link:hover {
+    cursor: pointer;
+
+    &.github {
+        color: #24292E;
+    }
+    &.linkedin {
+        color: #2366C2;
+    }
+    &.fb {
+        color: #3390F2;
+    }
+    &.ig {
+        color: #B0358C;
+    }
+    &.spotify {
+        color: #42D05D !important;
+    }
+}
