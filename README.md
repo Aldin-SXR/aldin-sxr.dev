@@ -6,4 +6,4 @@ Visit me at: [https://aldin-sxr.dev](https://aldin-sxr.dev/)
   
 ---
 > Elegance is not a dispensable luxury but a factor that decides between success and failure.
- _Edsger W. Dijkstra_ 
+ _Edsger W. Dijkstra_
