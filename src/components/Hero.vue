@@ -15,7 +15,7 @@
                     <b class="has-text-danger"> -> </b> Hello, my name is <b class="zoom has-text-danger">Aldin Kovačević</b>. <br>
                     <b class="has-text-danger"> -> </b> And I kind of suck at UI design. <br>
                     <b class="has-text-danger"> -> </b> But I'm good at other stuff. <br> 
-                    <b class="has-text-danger"> -> </b> Backend and Blockchain developer @ 
+                    <b class="has-text-danger"> -> </b> Full-stack and blockchain developer @ 
                         <b><a class="zoom has-text-danger" href="https://digtl.co/" target="_blank">DIGTL</a></b>
                 </p>
             </div>
