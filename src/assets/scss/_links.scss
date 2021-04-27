@@ -1,7 +1,7 @@
 
 @mixin link-underline($color) {
     
-    $red: $color;
+    $c: $color;
     // $red: #F37272;
     
     $duration: .2s;
@@ -16,7 +16,7 @@
         left: 0;
         right: 0;
         height: 2px;
-        background-color: $red;
+        background-color: $c;
     }
     &:before {
         opacity: 0;
@@ -67,4 +67,16 @@
     &.spotify {
         color: #42D05D !important;
     }
+}
+
+/* Links */
+$red: #f14668 !important;
+.is-link {
+    color: inherit !important;
+    transition: ease-in 0.2s;
+}
+
+.is-link:hover,
+.is-link:focus {
+    color: $red;   
 }

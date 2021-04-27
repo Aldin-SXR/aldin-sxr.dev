@@ -31,16 +31,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "@/assets/scss/_links.scss";
-
-$red: #f14668 !important;
 
 img {
     object-fit: cover;
-}
-
-a {
-    @include link-underline($red)
 }
 
 </style>

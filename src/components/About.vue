@@ -28,7 +28,7 @@
                             I consider myself hard-working, meticulous, highly motivated and willing to learn and adapt to new technologies.
                         </p>
                         <p>
-                            At the moment, I work as a backend developer at <a href="">DIGTL</a> and a student assistant at <a href="https://www.ibu.edu.ba/">International Burch University</a>.
+                            At the moment, I am working as a backend developer at <a href="">DIGTL</a> and a student assistant at <a href="https://www.ibu.edu.ba/">International Burch University</a>.
                         </p>
                     <a href="#">#learn</a> <a href="#">#more</a>
                     </div>
@@ -44,6 +44,7 @@
                         <icon-text icon="c" text="C/C++" />.
                     </p>
                     <p class="mt-3">Primary areas of interest include <b>backend development</b>, <b>decentralized technologies</b> and <b>data science</b>.</p>
+                    <p class="mt-3">My hobies include <b>reading</b>, <b>playing games</b> (mostly RPGs and strategy games) and <b>language studies</b>. </p>
                 </div>
             </div>
         </div>
