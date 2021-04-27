@@ -60,7 +60,7 @@
                 </div>
             </div>
             <div class="column">
-                <p class="subtitle is-5 has-text-right">My carrer path</p>
+                <p class="subtitle is-5 has-text-right">My career path</p>
 
                 <div class="timeline is-rtl">
                     <header class="timeline-header">
