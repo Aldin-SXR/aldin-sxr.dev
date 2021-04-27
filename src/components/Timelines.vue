@@ -21,7 +21,7 @@
                         <div class="timeline-marker is-info"></div>
                         <div class="timeline-content">
                             <p class="heading">2012 - 2016</p>
-                            <p>Gynmansium Graduate</p>
+                            <p>Gymnasium Graduate</p>
                             <small><a href="https://rps.edu.ba/en/" target="_blank">Richmond Park International School Tuzla</a></small>
                         </div>
                     </div>
