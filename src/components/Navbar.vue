@@ -27,7 +27,7 @@
       <div class="navbar-end is-uppercase has-text-weight-bold is-size-7">
         <a href="https://github.com/Aldin-SXR?tab=repositories" target="_blank" class="navbar-item px-3">GitHub Projects</a>
         <a href="https://open.spotify.com/playlist/4Ga39lyM9YpN1TqTEwyHF7?si=ntkkPuj0TOuUu6rcaZw0JA&nd=1" target="_blank" class="navbar-item px-3">Essential City Pop</a>
-        <a href="https://open.spotify.com/playlist/0B6v74udbLjRbmSXizTQI2?si=WYBkjR4mQ9SBQWxpQ4kFJQ&nd=1" target="_blank" class="navbar-item px-3">Hottest Japan</a>
+        <a href="https://twitter.com/PhilosophyCats" target="_blank" class="navbar-item px-3">Philosophy Cats</a>
       </div>
     </div>
   </nav>

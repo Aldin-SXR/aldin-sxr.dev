@@ -24,11 +24,11 @@
                     </div>
                     <div class="content">
                         <p>
-                            I am a Master's student at International Burch University, Department of Information Technologies.
+                            I am a PhD student at International Burch University, Department of Information Technologies.
                             I consider myself hard-working, meticulous, highly motivated and willing to learn and adapt to new technologies.
                         </p>
                         <p>
-                            At the moment, I am working as a full-stack developer at <a target="_blank" href="https://digtl.co/">DIGTL</a> and a student assistant at <a target="_blank" href="https://www.ibu.edu.ba/">International Burch University</a>.
+                            At the moment, I am working as a full-stack developer at <a target="_blank" href="https://digtl.co/">DIGTL</a> and a Teaching Assistant at <a target="_blank" href="https://www.ibu.edu.ba/">International Burch University</a>.
                         </p>
                     <a target="_blank" href="https://www.linkedin.com/in/aldin-kovacevic/">#my-cv</a> <a href="mailto:me@aldin-sxr.dev">#contact-me</a>
                     </div>
@@ -44,7 +44,7 @@
                         <icon-text icon="c" text="C/C++" />.
                     </p>
                     <p class="mt-3">Primary areas of interest include <b>backend development</b>, <b>decentralized technologies</b> and <b>data science</b>. I also dabble in <b>database administration</b> and <b>server management</b>.</p>
-                    <p class="mt-3">My hobies include <b>reading</b>, <b>playing games</b> (mostly RPGs and strategy games) and <b>language studies</b>. </p>
+                    <p class="mt-3">My hobies include <b>reading</b>, <b>astronomy/astrophotography</b>, <b>playing games</b> (mostly RPGs and strategy games) and <b>language studies</b>. </p>
                 </div>
             </div>
         </div>

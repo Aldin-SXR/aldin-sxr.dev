@@ -48,8 +48,27 @@
                     <div class="timeline-item">
                         <div class="timeline-marker is-info"></div>
                         <div class="timeline-content">
-                            <p class="heading">2019 - present</p>
+                            <p class="heading">2019 - 2021</p>
                             <p>Master's Degree in Big Data</p>
+                            <small><a target="_blank" href="https://www.ibu.edu.ba/">International BURCH University</a></small>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-marker is-danger is-icon">
+                            <i class="fas fa-user-graduate"></i>            
+                        </div>
+                        <div class="timeline-content">
+                            <p class="heading">September 2021</p>
+                            <p><b>MSc of Information Technologies</b></p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-marker is-info"></div>
+                        <div class="timeline-content">
+                            <p class="heading">2021 - present</p>
+                            <p>PhD in Information Technologies</p>
                             <small><a target="_blank" href="https://www.ibu.edu.ba/">International BURCH University</a></small>
                         </div>
                     </div>
